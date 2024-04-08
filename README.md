@@ -3,4 +3,4 @@ Add Stuff
 
 This is simple calculater using HTML CSS and JavaScript
 <br>
-author = Ravindra singh shekhawat
+author = Niya88553
